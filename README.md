@@ -1,7 +1,7 @@
 # CS305-Project
 **Start apache server**
 
-`python3 netsim.py servers start -s ./servers/2servers -l ../logs/log0.txt`
+`python3 netsim.py servers start -s ./servers/2servers -l ./logs/log0.txt`
 
 **Start DNS server**
 
