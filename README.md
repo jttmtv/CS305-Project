@@ -38,7 +38,7 @@
 
 `python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000 -s 8081`
 
-**Web Browser**
+**Web Browsers**
 
 `http://127.0.0.1:8999/index.html`
 
