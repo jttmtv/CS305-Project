@@ -20,17 +20,20 @@
 `http://127.0.0.1:8999/index.html`
 
 
-**Start two proxies with default server ports ($\alpha=0.1$)**
+**Start two proxies with default server ports $(\alpha=0.1)$**
 
 `python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000 -s 8080`
+
 `python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000 -s 8081`
 
-**Start two proxies with default server ports ($\alpha=0.5$)**
+**Start two proxies with default server ports $(\alpha=0.5)$**
 
 `python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000 -s 8080`
+
 `python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000 -s 8081`
 
-**Start two proxies with default server ports ($\alpha=0.9$)**
+**Start two proxies with default server ports $(\alpha=0.9)$**
 
 `python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000 -s 8080`
+
 `python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000 -s 8081`
