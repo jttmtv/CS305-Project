@@ -37,3 +37,15 @@
 `python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000 -s 8080`
 
 `python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000 -s 8081`
+
+**Web Browser**
+
+`http://127.0.0.1:8999/index.html`
+
+`http://127.0.0.1:9000/index.html`
+
+**Exit**
+
+`http://127.0.0.1:8999/exit`
+
+`http://127.0.0.1:9000/exit`
