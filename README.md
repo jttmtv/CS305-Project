@@ -94,3 +94,7 @@
 `python3 netsim.py sharelink stop`
 
 `python3 netsim.py twolink stop`
+
+**Grapher**
+
+`python3 grapher.py ../logs/log0.txt ../logs/log1.txt ../logs/log2.txt`
