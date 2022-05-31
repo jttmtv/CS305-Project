@@ -17,57 +17,57 @@
 
 **Onelink: start proxies with default server port 15641 $(\alpha=0.1)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000`
 
 **Onelink: start proxies with default server port 15641 $(\alpha=0.5)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000`
 
 **Onelink: start proxies with default server port 15641 $(\alpha=0.9)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000`
 
 **Sharelink: start proxies with default server port 15640 and 15641 respectively $(\alpha=0.1)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000 -s 15640`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000`
 
 **Sharelink: start proxies with default server port 15640 and 15641 respectively $(\alpha=0.5)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000 -s 15640`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000`
 
 **Sharelink: start proxies with default server port 15640 and 15641 respectively $(\alpha=0.9)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000 -s 15640`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000`
 
 **Twolink: start proxies with default server port 15640 and 15641 respectively $(\alpha=0.1)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000 -s 15640`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.1 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.1 -p 9000 -d 5000`
 
 **Twolink: start proxies with default server port 15640 and 15641 respectively $(\alpha=0.5)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000 -s 15640`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.5 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.5 -p 9000 -d 5000`
 
 **Twolink: start proxies with default server port 15640 and 15641 respectively $(\alpha=0.9)$**
 
-`python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000 -s 15640`
+`python3 ./proxy.py -l ../logs/log1.txt -a 0.9 -p 8999 -d 5000`
 
-`python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000 -s 15641`
+`python3 ./proxy.py -l ../logs/log2.txt -a 0.9 -p 9000 -d 5000`
 
 **Trigger event**
 
